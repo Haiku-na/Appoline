@@ -1,8 +1,8 @@
 @keyframes wiggle{
-      0%{ transform: rotateX(-20deg)};
-      25%{transform : rotateY(20deg)};
-      50%{transform : rotateX(20deg)};
-      75%{transform : rotateY(-20deg)};
+      0%{ transform: rotateX(-90deg)};
+      25%{transform : rotateY(90deg)};
+      50%{transform : rotateX(90deg)};
+      75%{transform : rotateY(-90deg)};
   }
 
 .wiggle {
