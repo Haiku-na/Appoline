@@ -1,0 +1,9 @@
+@keyframes wiggle{
+      0%{ transform: rotateX(-20deg)};
+      25%{transform : rotateY(20deg)};
+      50%{transform : rotateX(20deg)};
+      75%{transform : rotateY(-20deg)};
+  }
+.wiggle {
+    animation: wiggle 1s ease-in-out;
+  }
